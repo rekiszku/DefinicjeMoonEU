@@ -6,7 +6,7 @@ Celem mowy nienawiści jest wywołanie strachu, wrogości lub dyskryminacji wobe
 # Za co karamy? (Mowa nienawiści)
 
 - Xwordy: 
-`brudas¹, ciota, cwel, czarnuch, down¹, kaleka¹, murzyn¹, nigger¹,  pedał¹, podczłowiek¹, prymityw¹, skośnooki¹, żyd¹, kys/keys, `
+`brudas¹, ciota, cwel, czarnuch, down¹, kaleka¹, murzyn¹, nigger,  pedał, podczłowiek¹, prymityw¹, skośnooki¹, żyd¹, kys/keys, `
 
 **z ¹** - karane, gdy jest to w kontekście pejoratywnym 
 -# (Np. `jebany brudas`, `jebana ciota`, `jebany kaleka`)
