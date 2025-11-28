@@ -123,3 +123,9 @@
 'zapierniczający', 'zasrać', 'zasranym', 'zasrywać', 'zasrywający',
 'zesrywać', 'zesrywający', 'zjebać', 'zjebac', 'zjebał', 'zjebal',
 'zjebała', 'zjebala', 'zjebana', 'zjebią', 'zjebali', 'zjeby'```
+```Lista 2:
+'odpierdol', 'odpierdalaj', 'pierdolnąć', 'pierdolnij', 'pierdolnął', 'pierdolnęła', 'pierdolnięty', 'napierdolił', 'napierdolony', 'popierdoliło', 'popierdolony', 'przypierdolić', 'przypierdalanie', 'spierdolenie', 'upierdliwy', 'upierdolić', 'wpierdol', 'wypierdol', 'zapierdol', 'zapierdalaj', 'zapierdolić'
+'kurwą', 'kurwę', 'kurwie', 'kurwo', 'kurwy', 'kurwach', 'kurwami', 'skurwiały', 'skurwiale', 'skurwialstwo', 'wkurwiony', 'wkurwiona', 'wkurwione', 'wkurwieni', 'zakurwisty', 'zakurwista', 'zakurwiste'
+'jeb', 'jebnięty', 'jebanko', 'dojebanie', 'dojebany', 'dojebani', 'najebany', 'najebani', 'pojebany', 'pojebani', 'przejebany', 'przejebani', 'ujebany', 'ujebani', 'wyjebany', 'wyjebani', 'zajebany', 'zajebani', 'zjebany', 'zjebani'```
+
+
