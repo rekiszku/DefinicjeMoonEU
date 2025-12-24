@@ -17,7 +17,6 @@ Proces tworzenia pojazdów odbywa się poprzez dedykowany interfejs produkcyjny.
 **Komenda:**
 
 /produkcja
-```
 
 Po rozpoczęciu produkcji pojazd może wymagać **czasu oczekiwania**, zanim zostanie odebrany przez gracza.
 
