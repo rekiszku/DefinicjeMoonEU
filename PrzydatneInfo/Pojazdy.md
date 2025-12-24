@@ -57,7 +57,6 @@ Naprawa przywraca pełną sprawność techniczną pojazdu.
 ## ℹ Informacje ogólne
 
 * 🚫 Pojazdy **nie zadają obrażeń** graczom podczas potrącenia
-* 🧩 Każdy pojazd posiada unikalne mechaniki sterowania
 * 📦 Niektóre pojazdy posiadają **wbudowane magazyny**
 
 ---
