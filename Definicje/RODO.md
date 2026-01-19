@@ -1,15 +1,25 @@
-# 🛡️ RODO 
+# 🔐 RODO – definicja
 
-## 🔒 Czym jest RODO?
-Skrót **RODO** (Rozporządzenie o Ochronie Danych Osobowych) to unijne prawo chroniące dane obywateli. Na naszym serwerze i w repozytorium termin ten interpretujemy szeroko jako **bezwzględny zakaz naruszania sfery prywatnej** innych osób.
+📘 **RODO** (Rozporządzenie o Ochronie Danych Osobowych) to unijne rozporządzenie regulujące zasady przetwarzania danych osobowych.
+Jego pełna nazwa to **Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/679**.
 
+🗓️ Obowiązuje od **25 maja 2018 roku** i ma na celu:
 
-## 🚫 Czego NIE wolno robić? (Zasady Anty-Doxingowe)
+* ochronę prywatności osób fizycznych,
+* ujednolicenie zasad ochrony danych osobowych w całej Unii Europejskiej.
 
-Zabrania się udostępniania jakichkolwiek danych, które pozwalają na identyfikację użytkownika w świecie rzeczywistym, bez jego wyraźnej zgody.
+## 👤 Dane osobowe – definicja
 
-* ❌ **Imię i nazwisko** (chyba że użytkownik sam je upublicznia).
-* ❌ **Adres zamieszkania** lub dokładna lokalizacja.
-* ❌ **Numer telefonu** i prywatny adres e-mail.
-* ❌ **Miejsce pracy lub nazwa szkoły**.
-* ❌ **Prywatne zdjęcia** (w tym wizerunek twarzy).
+🧾 **Dane osobowe** to wszelkie informacje, które pozwalają zidentyfikować osobę fizyczną bezpośrednio lub pośrednio.
+
+### 📌 Przykłady danych osobowych:
+
+* imię i nazwisko
+* adres e-mail
+* numer telefonu
+* adres IP
+* numer PESEL
+* dane lokalizacyjne
+* wizerunek
+
+🛡️ Wszystkie powyższe informacje podlegają ochronie zgodnie z przepisami RODO.
