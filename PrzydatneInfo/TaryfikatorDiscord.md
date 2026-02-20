@@ -39,4 +39,4 @@
 | **Nadmierna toksyczność** | ![](https://img.shields.io/badge/-Ban_7d-ff0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_30d-8b0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_180d-8b0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_360d-8b0000?style=flat-square) |
 
 ---
-> Po konsultacji z ![](https://img.shields.io/badge/-%20**JADMIN+**-ff8989?style=flat-square) kary możemy nadać na czas inny niż podany tutaj.
+> Po konsultacji z ![](https://img.shields.io/badge/-%20JADMIN+-ff8989?style=flat-square) kary możemy nadać na czas inny niż podany tutaj.
