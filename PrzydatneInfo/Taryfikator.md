@@ -5,7 +5,7 @@
 
 | Powód kary | 1 KARA | 2 KARA | 3 KARA | 4 KARA |
 | :--- | :--- | :--- | :--- | :--- |
-| **Działanie na szkodę serwera** | - | - | - | - |
+| **Działanie na szkodę serwera** | ![](https://img.shields.io/badge/-Ban_Zawsze-800000?style=flat-square)  | - | - | - |
 | **Wykorzystywanie błędów** | ![](https://img.shields.io/badge/-Ban_5d-ff0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_10--14d-ff0000?style=flat-square) | - | - |
 | **Nieodpowiedni nick** | ![](https://img.shields.io/badge/-BANDOZMIANY-800000?style=flat-square) | - | - | - |
 | **Nielegalny trap** | ![](https://img.shields.io/badge/-Ban_2d-ff4d4d?style=flat-square) | ![](https://img.shields.io/badge/-Ban_5d-ff0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_7--10d-ff0000?style=flat-square) | - |
