@@ -28,6 +28,7 @@
 | **Treści 18+** | ![](https://img.shields.io/badge/-Przerwa_1--6h-ffff00?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_6h--1d-90ee90?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_2--5d-008000?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_7d-006400?style=flat-square) |
 | **Pedofilia/Nękanie** | ![](https://img.shields.io/badge/-Przerwa_7d-006400?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_30d-006400?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_90d-006400?style=flat-square) | ![](https://img.shields.io/badge/-Ban_21d-8b0000?style=flat-square) |
 | **Podszywanie się** | ![](https://img.shields.io/badge/-Przerwa_1d-00ff00?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_3d-008000?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_7d-006400?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_14d-006400?style=flat-square) |
+| **Notoryczne toksyczne zachowanie** | ![](https://img.shields.io/badge/-Ban_7d-ff0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_30d-8b0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_180d-8b0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_360d-8b0000?style=flat-square) |
 
 ## Voice Chat
 
@@ -36,7 +37,7 @@
 | **Streamy z innych serwerów** | ![](https://img.shields.io/badge/-Przerwa_12h-90ee90?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_1d-ffa500?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_3d-ff4d4d?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_7d-ff0000?style=flat-square) |
 | **Celowe przeszkadzanie** | ![](https://img.shields.io/badge/-Przerwa_12h-90ee90?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_1d-ffa500?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_3d-ff4d4d?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_7d-ff0000?style=flat-square) |
 | **Bindy/Modulatory głosu** | ![](https://img.shields.io/badge/-Przerwa_3h-ffff00?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_12h-90ee90?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_1d-ffa500?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_7d-ff0000?style=flat-square) |
-| **Nadmierna toksyczność** | ![](https://img.shields.io/badge/-Ban_7d-ff0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_30d-8b0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_180d-8b0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_360d-8b0000?style=flat-square) |
+
 
 
  
