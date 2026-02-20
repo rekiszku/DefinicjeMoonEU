@@ -16,7 +16,7 @@
 | **Niedozwolony skin** | ![](https://img.shields.io/badge/-Ostrzeżenie-90ee90?style=flat-square) | ![](https://img.shields.io/badge/-Kick-ffff00?style=flat-square) | ![](https://img.shields.io/badge/-Ban_15_min-ffff00?style=flat-square) | ![](https://img.shields.io/badge/-Ban_1h-ffff00?style=flat-square) |
 | **Wyłudzanie backupów** | ![](https://img.shields.io/badge/-Ban_45d-8b0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_na_180d-8b0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_na_zawsze!-800000?style=flat-square) | - |
 | **Okłamywanie administracji** | ![](https://img.shields.io/badge/-Ostrzeżenie-90ee90?style=flat-square) | ![](https://img.shields.io/badge/-Ban_10d-ff0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_14d-ff0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_21d-8b0000?style=flat-square) |
-| **Współpraca z cheaterem** | ![](https://img.shields.io/badge/-Ban_1d-ffa500?style=flat-square) | ![](https://img.shields.io/badge/-Ban_5d-ff0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_9d-ff0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_28d-8b0000?style=flat-square) |
+| **Współpraca z wykorzystującym błędy** | ![](https://img.shields.io/badge/-Ban_1d-ffa500?style=flat-square) | ![](https://img.shields.io/badge/-Ban_5d-ff0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_9d-ff0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_28d-8b0000?style=flat-square) |
 
 ## Kary Czat
 
