@@ -29,4 +29,4 @@
 | **Zaśmiecanie czatu** | ![](https://img.shields.io/badge/-Mute_15m-90ee90?style=flat-square) | ![](https://img.shields.io/badge/-Mute_6h-90ee90?style=flat-square) | ![](https://img.shields.io/badge/-Mute_12h-90ee90?style=flat-square) | ![](https://img.shields.io/badge/-Mute_3d-008000?style=flat-square) |
 | **Przeklinanie/Obraza** | ![](https://img.shields.io/badge/-Mute_2h-90ee90?style=flat-square) | ![](https://img.shields.io/badge/-Mute_12h-90ee90?style=flat-square) | ![](https://img.shields.io/badge/-Mute_2d-00ff00?style=flat-square) | - |
 | **Pedofilia/Nękanie** | ![](https://img.shields.io/badge/-Ban_Zawsze-800000?style=flat-square) | - | - | - |
-| **Inne niewymienione** | Według uznania ![](https://img.shields.io/badge/-%20**ADMIN+**-c40a00?style=flat-square) | - | - | - |
+| **Inne niewymienione** | Według uznania ![](https://img.shields.io/badge/-%20ADMIN+-c40a00?style=flat-square) | - | - | - |
