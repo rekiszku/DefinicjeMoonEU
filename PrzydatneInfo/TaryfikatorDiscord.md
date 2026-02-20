@@ -40,4 +40,4 @@
 
 
  
-![](https://img.shields.io/badge/Discord%20Administrator-f31111?style=flat-square&labelColor=f31111&color=f31111)
+Po konsultacji z ![](https://img.shields.io/badge/Discord%20Administrator-f31111?style=flat-square&labelColor=f31111&color=f31111), kary możemy nadać na czas inny niż podany tutaj.
