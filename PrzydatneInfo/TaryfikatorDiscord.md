@@ -38,4 +38,6 @@
 | **Bindy/Modulatory głosu** | ![](https://img.shields.io/badge/-Przerwa_3h-ffff00?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_12h-90ee90?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_1d-ffa500?style=flat-square) | ![](https://img.shields.io/badge/-Przerwa_7d-ff0000?style=flat-square) |
 | **Nadmierna toksyczność** | ![](https://img.shields.io/badge/-Ban_7d-ff0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_30d-8b0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_180d-8b0000?style=flat-square) | ![](https://img.shields.io/badge/-Ban_360d-8b0000?style=flat-square) |
 
-> Po konsultacji z ![](https://img.shields.io/badge/-%20**Discord%20Administrator**-f31111?style=flat-square) kary możemy nadać na czas inny niż podany tutaj.
+
+ 
+![](https://img.shields.io/badge/Discord%20Administrator-f31111?style=flat-square&labelColor=f31111&color=f31111)
