@@ -1,4 +1,4 @@
-# Taryfikator Discord - MoonEU.PL
+# Taryfikator Discord (w tworzeniu) - MoonEU.PL
 
 | POWÓD KARY | 1 KARA | 2 KARA | 3 KARA | 4 KARA |
 | :--- | :--- | :--- | :--- | :--- |
