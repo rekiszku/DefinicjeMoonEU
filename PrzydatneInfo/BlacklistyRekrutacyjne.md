@@ -8,7 +8,7 @@
 - **Naruszenie poufności:** Publiczne udostępnianie danych dotyczących procesu rekrutacji.
 - **Trolling:** Wysyłanie podań dla żartu lub bez realnej chęci dołączenia do zespołu.
 - **Wspomaganie się AI:** Korzystanie z generatorów tekstu przy pisaniu podania. 
-  * *Uwaga: To jedyny powód, od którego dopuszczamy możliwość odwołania się.*
+  * *Psst.. To jedyny powód, od którego dopuszczamy możliwość odwołania się.*
 - **Manipulacje i kłamstwa:** Świadome wprowadzanie w błąd (np. zawyżanie wieku).
 - **Brak kultury:** Obraźliwe zachowanie lub brak szacunku wobec administracji (np. podczas rekrutacji).
 - **Naciski:** Nękanie członków ekipy w celu wymuszenia szybszego sprawdzenia podania.
