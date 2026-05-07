@@ -8,12 +8,6 @@ Proces tworzenia pojazdów odbywa się poprzez dedykowany interfejs produkcyjny.
 **Wymagania produkcyjne:**
 
 * Określone **itemy** zależne od typu pojazdu
-* Dodatkowy koszt finansowy (nie zawsze wymagany)
-
-**Koszt produkcji:**
-
-* 💰 Średnio od **15 000$ do 25 000$**
-
 **Komenda:**
 
 /produkcja
