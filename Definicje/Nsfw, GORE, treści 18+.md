@@ -1,4 +1,4 @@
-### 🚫 NSFW (Not Safe For Work)
+###  NSFW (Not Safe For Work)
 Treści nieodpowiednie do przeglądania w miejscu pracy lub w przestrzeni publicznej. Mogą naruszać powszechnie przyjęte normy społeczne oraz powodować dyskomfort.
 
 **Przykłady:**
